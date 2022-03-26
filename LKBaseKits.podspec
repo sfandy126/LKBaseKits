@@ -1,12 +1,14 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LKBaseKits'
-  s.version          = '0.0.3'
+  s.version          = '0.0.4'
   s.summary          = 'LKBaseKits.'
 
 
   s.description      = <<-DESC
-  description 
+  支持pod 集成
+  集成方式:
+  pod 'LKBaseKits',:git =>"https://github.com/sfandy126/LKBaseKits.git"
                        DESC
 
   s.homepage         = 'https://github.com/sfandy126/LKBaseKits'
