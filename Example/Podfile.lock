@@ -1,0 +1,16 @@
+PODS:
+  - LKBaseKits (0.1.0)
+
+DEPENDENCIES:
+  - LKBaseKits (from `../`)
+
+EXTERNAL SOURCES:
+  LKBaseKits:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LKBaseKits: 6064553a86a99a50b3441a10515d6c01a783e925
+
+PODFILE CHECKSUM: fbe868394771c46f455bb29eb54c7eefaa94faf2
+
+COCOAPODS: 1.11.2

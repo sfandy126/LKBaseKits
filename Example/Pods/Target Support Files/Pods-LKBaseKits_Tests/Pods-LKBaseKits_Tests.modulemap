@@ -1,0 +1,6 @@
+framework module Pods_LKBaseKits_Tests {
+  umbrella header "Pods-LKBaseKits_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

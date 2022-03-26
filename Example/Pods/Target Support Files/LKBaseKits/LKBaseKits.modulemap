@@ -1,0 +1,6 @@
+framework module LKBaseKits {
+  umbrella header "LKBaseKits-umbrella.h"
+
+  export *
+  module * { export * }
+}
